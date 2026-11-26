@@ -1,120 +1,177 @@
 
------------------------------------------------------------------------------------------------
+---
 
-Обновление 0.0.1 (28-04-2025 19/20)
+ Update 0.0.1 (28-04-2025 19:20)
 
-Добавлено:
+Added:
 
-Лично созданный плагин для изменения титульного фона в игре (да-да на джаве(скрипте))
+* Custom-made plugin to change the title screen background (yes, written in Java(script))
 
------------------------------------------------------------------------------------------------
+---
 
-Обновление 0.0.2 (28-04-2025 20/34)
+ Update 0.0.2 (28-04-2025 20:34)
 
-Добавлено:
+Added:
 
-Первые текстуры игры
+* First game textures
 
------------------------------------------------------------------------------------------------
+---
 
-Обновление 0.0.3 (29-04-2025 18/00)
+ Update 0.0.3 (29-04-2025 18:00)
 
-Добавлено:
+Added:
 
-Joe
-Joe
-Joe
-Joe
-Joe
-Joe
-Joe
-Joe
-Joe
-Joe
-Joe
-Joe
-Joe
+* Joe
+* Joe
+* Joe
+* Joe
+* Joe
+* Joe
+* Joe
+* Joe
+* Joe
+* Joe
+* Joe
+* Joe
+* Joe
 
------------------------------------------------------------------------------------------------
+---
 
-Обновление 0.0.4 (01-05-2025 22/20)
+ Update 0.0.4 (01-05-2025 22:20)
 
-Добавлено:
+Added:
 
-Первая зарисовка секюрити
-Обучающий уровень починен
+* First sketch of Security
+* Tutorial level fixed
 
------------------------------------------------------------------------------------------------
+---
 
-Обновление 0.0.5 (03-05-2025 14/20)
+ Update 0.0.5 (03-05-2025 14:20)
 
-Добавлено:
+Added:
 
-Обучающий уровень обновлен
+* Tutorial level updated
 
-Больше геймплейа не получите до обновления 0.5 (закрытого бета теста)  и 0.8 (открытого бета теста) 
+You won’t get more gameplay until update 0.5 (closed beta test) and 0.8 (open beta test)
 
------------------------------------------------------------------------------------------------
+---
 
-Обновление 0.0.6 (05-05-2025 19/35)
+ Update 0.0.6 (05-05-2025 19:35)
 
-Добавлено: Новыйе текстуры
+Added:
 
------------------------------------------------------------------------------------------------
+* New textures
 
-Обновление 0.1  05-05-2025 21/43)
+---
 
-Конец разработки уровней мозга начала разработки полноценной игры
+ Update 0.1 (05-05-2025 21:43)
 
------------------------------------------------------------------------------------------------
+ End of "brain levels" development
+ Start of full game development
 
-Обновление 0.1.5 (12-05-2025 18-46)
+---
 
-Добавлено:
+ Update 0.1.1 (12-05-2025 18:46)
 
-Огнестрельное оружие виде: Магнума, Макарова, 5,56 револьвер и Энергетический пистолет TSC
-Патроны для огнестрела
-Холодное оружие
-На 50% закончена локация ГЭС
-Новый спрайт ГГ
+Added:
 
------------------------------------------------------------------------------------------------
+* Firearms: Magnum, Makarov, 5.56 Revolver, and TSC Energy Pistol
+* Ammo for firearms
+* Melee weapons
+* Hydroelectric Plant (HPP) location is 50% complete
+* New sprite for the protagonist
 
-Обновление 0.2 (18-05-2025 13-31)
+---
 
-Добавлено:
+ Update 0.2 (18-05-2025 13:31)
 
-ГЭС закончена
-Новые предметы (аптечки и патроны)
-Новые враги
-Первая VHS анимация
+Added:
 
-Планы:
+* HPP location completed
+* New items (medkits and ammo)
+* New enemies
+* First VHS-style animation
 
-Начать делать локацию склады
-Добавление боевых ботов
-мелкое изменение боёвки
+Plans:
 
------------------------------------------------------------------------------------------------
+* Start working on the Warehouse location
+* Add combat bots
+* Minor combat adjustments
 
-Обновление 0.2.5 (29-05-2025 19-56)
+---
 
-Добавлено:
+ Update 0.2.1 (29-05-2025 19:56)
 
-Готова локация Склады на 50%
-Новые медикаменты
-Туман
-Персонаж Проповедник
-Новые декорации
+Added:
 
-Планы:
+* Warehouse location is 50% complete
+* New medications
+* Fog
+* Character "The Preacher"
+* New decorations
 
-Добавление боевых ботов
-Мелкое изменение боёвки
-Добавление локации жилой комплекс
-Добавление станции обмена
+Plans:
 
+* Add combat bots
+* Minor combat adjustments
+* Add Residential Complex location
+* Add Trading Station
 
------------------------------------------------------------------------------------------------
+---
 
+ Update 0.3 (17-06-2025 13:36)
+
+Added:
+
+* Warehouse location is 90% complete
+* Chemistry system
+* New battle backgrounds
+* New decorations
+* Combat bots
+
+Plans:
+
+* Minor combat adjustments
+* Add Residential Complex location
+* Add Trading Station
+
+---
+
+ Update 0.3.1 (23-06-2025 22:33)
+
+Added:
+
+* Warehouse location is now 100% complete
+* Updated item pool in crates
+* New decorations
+* Updated game intro
+
+---
+
+ Update 0.3.2 (26-06-2025 13:33)
+
+Added:
+
+* Cutscene with the railgun is finished (had to trim it for faster development)
+* Rebalanced item drops from crates
+
+---
+
+ Update 0.3.3 (04-07-2025 21:26)
+
+Added:
+
+ New visual style for locations
+ Updated props
+ New props
+
+---
+
+ Update 0.3.4 (08-07-2025 18:39)
+
+Added:
+
+* Enemies now have a field of vision
+
+---
 
